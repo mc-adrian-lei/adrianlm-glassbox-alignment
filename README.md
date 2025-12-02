@@ -25,7 +25,3 @@ Adversarial Survivor-Architect
 Only When Prompted Research Initiative
 
 Deployed in production: Threat intelligence, legal strategy, consciousness architecture
-
-text
-
-4. Scroll bottom → Green "Commit new file" → Click
