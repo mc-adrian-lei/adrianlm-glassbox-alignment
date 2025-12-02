@@ -107,5 +107,5 @@ Only When Prompted Research Initiative
 
 ## Contact
 Adrian Lei Martinez-Conol  
-Email: vyennteviolet@gmail.com  
+Email: adrian@onlywhenpromtped.org 
 Research Initiative: Only When Prompted (Glass Box AI Safety)
